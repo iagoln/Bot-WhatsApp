@@ -16,7 +16,7 @@
     
 ### O que utiliza?
 
- <p> - JS </p>
+ <p> - NODE </p>
  <p> - Venom </p>
 
 ### Como rodar?
