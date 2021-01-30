@@ -10,6 +10,10 @@
 
 - Bot para whatsApp simples criado para uma clinica.
 
+##### Screenshot
+
+<img src="testebot.gif" height="300" alt="Demo">
+
 ### O que utiliza?
 
 - **Ferramentas**
