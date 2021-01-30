@@ -9,26 +9,22 @@
 ### O que é?
 
 - Bot para whatsApp simples criado para uma clinica.
-<p>
-  <p>
+
     
 ### Screenshot
 
 <img src="testebot.gif" align="left" height="400" alt="Demo">
-  </p>
-  <p align="left">
-  
+    
 ### O que utiliza?
 
-  - JS
-  - Venom
+ <p> - JS </p>
+ <p> - Venom </p>
 
 ### Como rodar?
 
-- npm Install
-- npm Start
-  </p>
-</p>
+ <p> npm Install </p>
+ <p> npm Start </p>
 
+ 
 
 > abra a ferramenta do ``whatsapp-web`` no seu whatsapp e scannei o QRcode
