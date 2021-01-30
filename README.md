@@ -13,7 +13,7 @@
     
 ### Screenshot
 
-<img src="testebot.gif" align="left" height="400" alt="Demo">
+<img src="testebot.gif" align="left" height="350" alt="Demo">
     
 ### O que utiliza?
 
