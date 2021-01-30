@@ -12,7 +12,7 @@
   
 <p>
   
-### Screenshot
+
 
 <img src="testebot.gif" align="left" height="350" alt="Demo">
     
@@ -32,6 +32,6 @@
 
 <h2 align="center">
     <b>Diagrama </b>  
-  <br> <br>
+  <br> <br> <br>
   <img src="diagrama.jpg" />
 </h2>
