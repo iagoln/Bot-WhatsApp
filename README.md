@@ -10,6 +10,8 @@
 
 - Bot para whatsApp simples criado para uma clinica.
   
+<p>
+  
 ### Screenshot
 
 <img src="testebot.gif" align="left" height="350" alt="Demo">
@@ -27,4 +29,8 @@
  <p> 4. npm Start </p>
  <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p>
 
+</p>
+### Diagrama
 
+<img src="diagrama.jpg" align="center" height="350" alt="Demo">
+    
