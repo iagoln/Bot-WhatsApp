@@ -5,14 +5,9 @@
   <br/>
   <b>Chat-bot Whatsapp</b>
 </h2>
-
-<p align="center">
-  
-### O que é?
+  <b align="center">O que é?/b>
 
 - Bot para whatsApp simples criado para uma clinica.
-
-</p>
   
 ### Screenshot
 
@@ -27,7 +22,7 @@
 
  <p> 1. git clone https://github.com/iagoln/Bot-WhatsApp.git </p>
  <p> 2. cd Bot-WhatsApp </p>
- <p> 3. npm Install </p>
+ <p > 3. npm Install </p>
  <p> 4. npm Start </p>
  <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p>
 
