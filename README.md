@@ -32,6 +32,6 @@
 
 <h2 align="center">
     <b>Diagrama </b>  
-  <br> <br> <br>
+  
   <img src="diagrama.jpg" />
 </h2>
