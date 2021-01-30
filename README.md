@@ -30,6 +30,15 @@
  <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p>
 
 </p>
+
+<h2 align="center">
+    <b>Diagrama</b>
+  <img src="diagrama.jpg" />
+
+  <br/>
+
+</h2>
+
 ### Diagrama
 
 <img src="diagrama.jpg" align="center" height="350" alt="Demo">
