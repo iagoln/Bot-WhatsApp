@@ -5,9 +5,7 @@
   <br/>
   <b>Chat-bot Whatsapp</b>
 </h2>
-
-<b align="center">O que é?</b>
-
+<p align="center"> <b>O que é?</b> </p>
 - Bot para whatsApp simples criado para uma clinica.
   
 ### Screenshot
