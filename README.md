@@ -12,7 +12,7 @@
     <br/>  <br/>
 <p>
   
-<img src="testebot.gif" align="left" height="350" alt="Demo">
+<img src="testebot.gif" align="left" height="400" alt="Demo">
     
 ### O que utiliza?
 
@@ -23,13 +23,13 @@
 
  <p> 1. git clone https://github.com/iagoln/Bot-WhatsApp.git </p>
  <p> 2. cd Bot-WhatsApp </p>
- <p > 3. npm Install </p>
+ <p> 3. npm Install </p>
  <p> 4. npm Start </p>
  <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p> <br/>
 </p>
 
 <h2 align="center">
     <b>Diagrama </b>  
-    <br/>  <br/>  <br/>
+    <br/>  <br/> 
   <img src="diagrama.jpg" />
 </h2>
