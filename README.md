@@ -12,18 +12,17 @@
 
 ##### Screenshot
 
-<img src="testebot.gif" height="300" alt="Demo">
+<img src="testebot.gif" height="500" alt="Demo">
 
 ### O que utiliza?
 
 - **Ferramentas**
   - JS
   - Venom
-  - Chromedriver
 
 ### Como rodar?
 
-- npm install
+- npm Install
 - npm Start
 
 
