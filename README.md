@@ -14,10 +14,11 @@
 <p>
 <img src="testebot.gif" align="left" height="400" alt="Demo">
 </p>
- 
+
+ <div text-align="right">
+  
 ### O que utiliza?
 
-- **Ferramentas**
   - JS
   - Venom
 
@@ -26,5 +27,6 @@
 - npm Install
 - npm Start
 
+</div>
 
 > abra a ferramenta do ``whatsapp-web`` no seu whatsapp e scannei o QRcode
