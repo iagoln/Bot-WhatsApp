@@ -27,15 +27,10 @@
  <p> 2. cd Bot-WhatsApp </p>
  <p > 3. npm Install </p>
  <p> 4. npm Start </p>
- <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p>
-  <br/>
+ <p> 5. abra a ferramenta do whatsapp-web no seu whatsapp e scannei o QRcode </p> <br/>
 </p>
 
 <h2 align="center">
-    <b>Diagrama</b>
-  
+    <b>Diagrama</b>   <br/>  
   <img src="diagrama.jpg" />
-
-  <br/>
-
 </h2>
