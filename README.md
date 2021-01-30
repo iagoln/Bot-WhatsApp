@@ -9,8 +9,10 @@
 ### O que é?
 
 - Bot para whatsApp simples criado para uma clinica.
-<p>
+
 ##### Screenshot
+<p>
+
 
 <img src="testebot.gif" align="left" height="500" alt="Demo">
  <p>
