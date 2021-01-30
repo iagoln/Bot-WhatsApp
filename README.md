@@ -9,13 +9,14 @@
 ### O que é?
 
 - Bot para whatsApp simples criado para uma clinica.
-
-### Screenshot
 <p>
-<img src="testebot.gif" align="left" height="400" alt="Demo">
-</p>
+  <p>
+    
+### Screenshot
 
- <div text-align="right">
+<img src="testebot.gif" align="left" height="400" alt="Demo">
+  </p>
+  <p align="left">
   
 ### O que utiliza?
 
@@ -26,7 +27,8 @@
 
 - npm Install
 - npm Start
+  </p>
+</p>
 
-</div>
 
 > abra a ferramenta do ``whatsapp-web`` no seu whatsapp e scannei o QRcode
