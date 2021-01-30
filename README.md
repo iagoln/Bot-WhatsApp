@@ -10,19 +10,16 @@
 
 - Bot para whatsApp simples criado para uma clinica.
 
-##### Screenshot
+### Screenshot
 <p>
-
-
-<img src="testebot.gif" align="left" height="500" alt="Demo">
- <p>
+<img src="testebot.gif" align="left" height="400" alt="Demo">
+ </p>
 ### O que utiliza?
 
 - **Ferramentas**
   - JS
   - Venom
-  </p>
-</p>
+
 ### Como rodar?
 
 - npm Install
