@@ -1,10 +1,13 @@
-const bot = require("venom-bot")
+const venom = require("venom-bot")
 const banco = require("./banco")
 const stages = require("./stages")
 
-bot.create().then((client) => start(client));
+venom.create().then((client) => start(client));
+
 function start(client) {
   client.onMessage((message) => {
+
+    if ( message.isGroupMsg === false) {
     //Verifico qual o stage do usuario e se for stage 4 desativa a interação com o robo 
     const stage = getStage(message.from)
     if (stage != 4) {
@@ -17,7 +20,7 @@ function start(client) {
         const element = resp[index];
         client.sendText(message.from, element);
       }
-    }
+    }}
   });
 }
 function getStage(user) {
@@ -28,7 +31,6 @@ function getStage(user) {
     //Criar usuario se for a primeia vez
     banco.db[user] = {
       stage: 0,
-      itens: [],
     };
     return banco.db[user].stage;
   }
