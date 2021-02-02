@@ -31,5 +31,5 @@
 <h2 align="center">
     <b>Diagrama </b>  
     <br/>  <br/> 
-  <img src="diagrama.jpg" />
+  <img src="diagramabot.png" />
 </h2>
